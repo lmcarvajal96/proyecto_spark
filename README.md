@@ -4,7 +4,7 @@
 
 docker run -it -e KAFKA_SERVERS=${INSTANCE_PUBLIC_IP}:9092 andresgomezfrr/data-simulator:1.1
 
-## simulador corre a través de Kafka junto Zookeeper para coordinar procesos.
+## Simulador corre a través de Kafka junto Zookeeper para coordinar procesos.
 
 # Streaming & Batch
 
