@@ -8,7 +8,7 @@ docker run -it -e KAFKA_SERVERS=${INSTANCE_PUBLIC_IP}:9092 andresgomezfrr/data-s
 
 # Streaming & Batch
 
-##ecogemos los datos y configuramos de manera que agrupe los datos en nuestro Servidor PostgreSQL de esta manera:
+##Recogemos los datos y configuramos de manera que agrupe los datos en nuestro Servidor PostgreSQL de esta manera:
 
 Total de bytes recibidos por antena.
 Total de bytes transmitidos por mail de usuario.
